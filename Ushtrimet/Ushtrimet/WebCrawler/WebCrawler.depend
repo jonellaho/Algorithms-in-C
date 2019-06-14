@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1498038664 source:/home/sonila/Documents/WebCrawler/main.cpp
+	<iostream>
+	<string>
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	<vector>
+	<boost/regex.hpp>
+	<fstream>
+	<curl/curl.h>
+	"curl.h"
+
+1497917197 /home/sonila/Documents/WebCrawler/curl.h
+	"curlver.h"
+	"system.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"typecheck-gcc.h"
+

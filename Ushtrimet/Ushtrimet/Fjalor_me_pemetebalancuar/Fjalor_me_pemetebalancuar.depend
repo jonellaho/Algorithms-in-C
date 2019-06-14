@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1497918668 source:/home/sonila/Documents/Fjalor_me_pemetebalancuar/main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstddef>
+	<string>
+	<fstream>
+	<stdlib.h>
+	<vector>
+	<algorithm>
+

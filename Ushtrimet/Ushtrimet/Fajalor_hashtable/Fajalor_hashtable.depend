@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1498149294 source:/home/sonila/Documents/Fajalor_hashtable/main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+	<fstream>
+

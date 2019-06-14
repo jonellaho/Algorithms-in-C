@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1497918613 source:/home/sonila/Documents/Fjalori_me_lista/main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstddef>
+	<string>
+	<fstream>
+	<cctype>
+	<algorithm>
+
